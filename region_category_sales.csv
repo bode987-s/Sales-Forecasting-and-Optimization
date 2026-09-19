@@ -1,0 +1,21 @@
+Region,Category,Units Sold
+East,Clothing,507229
+East,Electronics,500086
+East,Furniture,500612
+East,Groceries,513781
+East,Toys,489557
+North,Clothing,471608
+North,Electronics,497362
+North,Furniture,514960
+North,Groceries,489323
+North,Toys,511713
+South,Clothing,510882
+South,Electronics,481488
+South,Furniture,513403
+South,Groceries,509235
+South,Toys,492791
+West,Clothing,509447
+West,Electronics,481496
+West,Furniture,496042
+West,Groceries,488143
+West,Toys,496424
