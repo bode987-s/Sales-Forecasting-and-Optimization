@@ -9,6 +9,8 @@ The workflow covers the complete process, from preparing the dataset
 and identifying useful patterns to training a forecasting model and
 deploying it through an application.
 
+https://sales-forecasting-and-optimization-jvmhehrwcbnuocotwxskmn.streamlit.app/
+
 ## Project Objectives
 
 - Analyze historical retail sales data
